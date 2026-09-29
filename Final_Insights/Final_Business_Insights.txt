@@ -1,0 +1,53 @@
+# Final Business Insights
+
+## 1. Customer Behavior
+
+- Regular customers contribute a major share of total orders.
+- The 31–45 age group represents an important customer segment.
+- Customer types show differences in average order value.
+- Customer segmentation can help improve targeted offers and retention strategies.
+
+## 2. Revenue Pattern
+
+- Revenue varies across different days of the week.
+- High-revenue days represent important periods for the business.
+- Revenue analysis can support promotional and operational planning.
+
+## 3. Popular Restaurant Categories
+
+- Biryani is the most popular restaurant category by order volume.
+- North Indian is another high-demand category.
+- Popular categories can help guide restaurant partnerships and promotions.
+
+## 4. Payment Preference
+
+- UPI is the most frequently used payment method.
+- Credit Card is another commonly used payment option.
+- Understanding payment preferences can help improve the checkout experience.
+
+## 5. Delivery Performance
+
+- Delivery time varies across different traffic levels.
+- Higher traffic levels are associated with longer delivery times.
+- Delivery-time analysis can help improve delivery planning and estimated delivery times.
+
+## 6. Traffic & Weather Impact
+
+- Traffic conditions have an impact on delivery operations.
+- Late deliveries occur under different weather conditions.
+- Traffic and weather information can be considered when planning delivery operations.
+
+## 7. Distance vs Delivery Time
+
+- Delivery distance shows a positive relationship with actual delivery time.
+- Longer delivery distances generally require more time.
+- Distance can therefore be considered when estimating delivery time.
+
+## 8. Overall Business Insight
+
+- Customer demand is concentrated in specific customer segments.
+- Certain restaurant categories contribute strongly to order volume.
+- Digital payment methods are important for customers.
+- Traffic, weather and delivery distance are important operational factors.
+- These insights can help improve customer targeting, restaurant partnerships,
+  payment experience and delivery operations.
